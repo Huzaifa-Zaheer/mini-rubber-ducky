@@ -1,5 +1,9 @@
 # 🦆 Mini Rubber Ducky
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mini-rubber-ducky-mhz.streamlit.app/)
+
+> 🌐 **Live Demo:** [https://mini-rubber-ducky-mhz.streamlit.app/](https://mini-rubber-ducky-mhz.streamlit.app/)
+
 An interactive **Retrieval-Augmented Generation (RAG)** assistant built with **Streamlit** and the **Google GenAI SDK**. Mini Rubber Ducky answers complex questions about **Multimodal RAG** by querying a dedicated **Gemini File Search Store**, ensuring accurate, grounded answers directly from your source documents.
 
 ---
@@ -135,7 +139,10 @@ To create a new store and index your documents:
 
 ## ☁️ Deployment (Streamlit Community Cloud)
 
-When deploying to [Streamlit Community Cloud](https://streamlit.io/cloud):
+The application is deployed live on Streamlit Community Cloud:
+👉 **[mini-rubber-ducky-mhz.streamlit.app](https://mini-rubber-ducky-mhz.streamlit.app/)**
+
+When deploying your own fork to [Streamlit Community Cloud](https://streamlit.io/cloud):
 
 Add your secrets in the app settings under **Secrets**:
 
